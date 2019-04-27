@@ -6,7 +6,7 @@ void sort(int nums[], int l, int r);
 const int N = 10;
 int main()
 {
-    cout << "sort!" << endl;
+    cout << "this is sort!" << endl;
     int nums[N];
     for (int i = 0; i < N; i++)
     {
