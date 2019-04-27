@@ -1,6 +1,6 @@
-// this is a simple c
-#include <stdio.h>
-int  main(){
-	printf("123\n");
+// this is a simple c++
+using namespace std;
+int main(){
+	cout<<"123"<<endl;
 	return 0;
 }
